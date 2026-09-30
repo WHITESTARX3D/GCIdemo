@@ -1,0 +1,3 @@
+{
+  "run": "cd \"/home/educationweb\" && quarks run"
+}
